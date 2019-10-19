@@ -1,6 +1,10 @@
 # MIPS-CPU
 Build a multiple cycles CPU of MIPS
 
+#### 杨城
+
+### 指令
+
 R类指令：取指、译码、执行（ALU计算），完成（写回寄存器堆）。
 
 I类ALU算术逻辑指令：取指、译码、执行（ALU），完成（写回寄存器堆）。
